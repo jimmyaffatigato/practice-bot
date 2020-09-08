@@ -1,0 +1,10 @@
+{
+  "name": "practice-bot",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Jimmy Affatigato",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.15"
+  }
+}
